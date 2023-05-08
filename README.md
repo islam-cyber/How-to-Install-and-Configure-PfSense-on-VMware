@@ -182,7 +182,13 @@ Now Set admin GUI Password and hit next
 
 9 - Here is dashboard after finished 
 
-![image](https://user-images.githubusercontent.com/123830641/236903117-9e2e18d8-2909-4fc9-bb46-ac6ae7edab82.png)
+![image](https://user-images.githubusercontent.com/123830641/236934032-fad5b504-3945-4b0f-8826-8ec638b8f4f1.png)
+
+
+Next Step we need to add new interfaces for Domain Controller and File Server or DMZ . First you need to add adapter VM -Settings-Add network Adapter 
+
+![image](https://user-images.githubusercontent.com/123830641/236948697-9da81869-f7dd-4659-8e8f-200cc03385bf.png)
+
 
 
 
