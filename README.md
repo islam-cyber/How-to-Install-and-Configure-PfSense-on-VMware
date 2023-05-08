@@ -180,6 +180,9 @@ Now Set admin GUI Password and hit next
 
 
 
+9 - Here is dashboard after finished 
+
+![image](https://user-images.githubusercontent.com/123830641/236903117-9e2e18d8-2909-4fc9-bb46-ac6ae7edab82.png)
 
 
 
