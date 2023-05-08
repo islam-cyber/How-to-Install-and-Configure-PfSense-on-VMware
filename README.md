@@ -185,13 +185,25 @@ Now Set admin GUI Password and hit next
 ![image](https://user-images.githubusercontent.com/123830641/236934032-fad5b504-3945-4b0f-8826-8ec638b8f4f1.png)
 
 
-Next Step we need to add new interfaces for Domain Controller and File Server or DMZ . First you need to add adapter VM -Settings-Add network Adapter 
+Next Step we need to add new interfaces for Domain Controller and File Server or DMZ . First you need to add adapter VM -Settings-Add network Adapter , then go to pfsense admin page , interfaces- Assignments - Add .
 
 ![image](https://user-images.githubusercontent.com/123830641/236948697-9da81869-f7dd-4659-8e8f-200cc03385bf.png)
 
 
+![image](https://user-images.githubusercontent.com/123830641/236949034-1d68cf26-ecb4-446e-812e-8d4d5a61c7ba.png)
+
+After that you need to enable interfces 
+
+![image](https://user-images.githubusercontent.com/123830641/236949393-8f0f6c3c-ade9-4f4e-a9a9-fa899abc5a19.png)
 
 
+To make sure interfaces is active go to firewall - rules , you will see the interfaces . 
+
+![image](https://user-images.githubusercontent.com/123830641/236949583-518656da-19eb-457a-80ee-72b15565e7fb.png)
+
+DashBoard after finshed 
+
+![image](https://user-images.githubusercontent.com/123830641/236950876-defc20d9-9948-447f-8dd8-14d3207a24f4.png)
 
 
 
