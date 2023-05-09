@@ -205,5 +205,15 @@ DashBoard after finshed
 
 ![image](https://user-images.githubusercontent.com/123830641/236950876-defc20d9-9948-447f-8dd8-14d3207a24f4.png)
 
+The interfaces are ready after configuring all of them. Now you can set rules. 
+
+![image](https://github.com/islam-cyber/How-to-Install-and-Configure-PfSense-on-VMware/assets/123830641/5f746b40-092f-43a2-a842-64824408ffef)
+
+
+Done 
+
+Especial Thanks to Pro. Dr. Reed-Sanchez 
+The Bronx Community College of The City University of New York
+
 
 
