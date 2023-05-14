@@ -135,7 +135,7 @@ got the first IP from the range 10.0.0.2
 ![image](https://user-images.githubusercontent.com/123830641/236878335-2ecf54c7-176f-4367-8905-c9e7824a681a.png)
 
 7. pfSense initial setup.
-As we have the IP address on both the Centos and the Linux mint, you now should be able to access the pfSense web GUI from either of the machine by typing the URL https://10.0.0.1
+As we have the IP address on both the win 11 and the win 7, you now should be able to access the pfSense web GUI from either of the machine by typing the URL https://10.0.0.1
 
 You would get a security warning, ignore that and click on continue.
 
